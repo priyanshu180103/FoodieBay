@@ -8,3 +8,6 @@ FoodieBay is a dynamic and user-friendly front-end fast food website designed to
 **Interactive Menu:** Users can browse through a detailed menu with descriptions, prices, and images of the food items.
 
 # Demo
+![Screenshot 2024-07-27 204811](https://github.com/user-attachments/assets/eb56617a-d75e-4811-a0a7-04c66574356e)
+![Screenshot 2024-07-27 204824](https://github.com/user-attachments/assets/4ec78dc6-d693-4c6b-8294-41f0a36b0401)
+![Screenshot 2024-07-27 204845](https://github.com/user-attachments/assets/0a102b70-53b9-44ff-a58e-85de66ff323c)

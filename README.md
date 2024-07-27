@@ -10,7 +10,7 @@ FoodieBay is a dynamic and user-friendly front-end fast food website designed to
 
 **User-friendly Interface:** Intuitive navigation and visually appealing design make it easy for users to find and order their favorite fast food items.
 
-The Link to FoodieBay---> https://priyanshu180103.github.io/FoodieBay/
+**The Link to FoodieBay---> https://priyanshu180103.github.io/FoodieBay/**
 
 
 # Demo

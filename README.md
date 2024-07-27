@@ -5,7 +5,11 @@ FoodieBay is a dynamic and user-friendly front-end fast food website designed to
 
 # Key Features
 **Responsive Design:** Ensures optimal viewing and interaction across all devices, including desktops, tablets, and smartphones.
+
 **Interactive Menu:** Users can browse through a detailed menu with descriptions, prices, and images of the food items.
+
+**User-friendly Interface:** Intuitive navigation and visually appealing design make it easy for users to find and order their favorite fast food items.
+
 
 # Demo
 ![Screenshot 2024-07-27 204811](https://github.com/user-attachments/assets/eb56617a-d75e-4811-a0a7-04c66574356e)
